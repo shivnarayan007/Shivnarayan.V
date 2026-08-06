@@ -1,0 +1,10 @@
+addSensor::S101::12::18
+addSensor::S102::25::30
+addSensor::S103::40::12
+addSensor::S104::55::45
+addSensor::S105::28::22
+nearestSensor::30::20
+rangeSearch::10::10::35::35
+removeSensor::S102
+treeStatistics
+displayTree

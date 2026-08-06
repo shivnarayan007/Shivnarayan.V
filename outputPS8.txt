@@ -1,0 +1,32 @@
+Sensor Added:
+S101 (12,18)
+Sensor Added:
+S102 (25,30)
+Sensor Added:
+S103 (40,12)
+Sensor Added:
+S104 (55,45)
+Sensor Added:
+S105 (28,22)
+Nearest Sensor
+S105 (28,22)
+Distance: 2.83
+Nodes Visited: 5
+Sensors inside Region
+(10,10) to (35,35)
+S105 (28,22)
+S102 (25,30)
+S101 (12,18)
+Total Sensors: 3
+Sensor Removed:
+S102
+Tree Statistics
+---------------
+Total Sensors : 4
+Tree Height : 3
+Nodes Visited (Last Query): 5
+Preorder Traversal
+S103
+S105
+S101
+S104
